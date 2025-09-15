@@ -1,22 +1,27 @@
 [
-    {
-        "title": "Buy groceries",
-        "description": "Purchase milk, eggs, and bread from the supermarket.",
-        "completed": false
-    },
-    {
-        "title": "Finish assignment",
-        "description": "Complete the backend API for the task manager project.",
-        "completed": true
-    },
-    {
-        "title": "Call mom",
-        "description": "Check in and see how she is doing.",
-        "completed": false
-    },
-    {
-        "title": "Read a book",
-        "description": "Read at least 30 pages of the new novel.",
-        "completed": true
-    }
+  {
+    "title": "Buy groceries",
+    "description": "Purchase milk, eggs, and bread from the supermarket.",
+    "completed": false
+  },
+  {
+    "title": "Finish assignment",
+    "description": "Complete the backend API for the task manager project.",
+    "completed": true
+  },
+  {
+    "title": "Call mom",
+    "description": "Check in and see how she is doing.",
+    "completed": true
+  },
+  {
+    "title": "Read a book",
+    "description": "Read at least 30 pages of the new novel.",
+    "completed": true
+  },
+  {
+    "title": "Do dishes",
+    "description": "Rinse and put the dishes in the dishwasher",
+    "completed": false
+  }
 ]
