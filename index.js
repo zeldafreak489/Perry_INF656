@@ -1,3 +1,8 @@
+// Author: Iris Perry
+// Date: 2025-09-15
+// Assignment 2 - Task Manager
+// Description: A simple task manager application that allows users to add, list, and complete tasks. Uses node.js and the fs module to read/write tasks to a JSON file. Uese readline for command-line interaction.
+
 const fs = require('fs').promises;
 const path = require('path');
 const readline = require('readline');
